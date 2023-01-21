@@ -1,6 +1,6 @@
 # Vessle
 
-A simple "bind shell" written in x86 assembly.
+A simple "bind shell" written in x86 assembly for Linux.
 
 
 ## About
