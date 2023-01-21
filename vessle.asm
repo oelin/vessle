@@ -5,7 +5,6 @@ global _start
 ; placed in ebx and *args on stack.
 
 socketcall: 
-
 	xor eax, eax
 	mov al, 102
 
